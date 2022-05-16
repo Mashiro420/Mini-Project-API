@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products","GET - Get All Products","SUCCESS","2022-05-16T08:47:36.6833109+07:00[Asia/Bangkok]","0.0","14.2"
+"Products","GET - Get Product By ID Positive","SUCCESS","2022-05-16T08:47:51.0312874+07:00[Asia/Bangkok]","0.0","0.72"
+"Products","GET - Get Product By ID negative","SUCCESS","2022-05-16T08:47:51.7748502+07:00[Asia/Bangkok]","0.0","0.44"
+"Products","POST - Create Product Positive","SUCCESS","2022-05-16T08:47:52.2951976+07:00[Asia/Bangkok]","0.0","1.68"
+"Products","POST - Create Product Negative","SUCCESS","2022-05-16T08:47:54.1607887+07:00[Asia/Bangkok]","0.0","0.49"

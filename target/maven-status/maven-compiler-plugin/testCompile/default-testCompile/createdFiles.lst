@@ -1,0 +1,15 @@
+starter\stepdefinitions\AuthStep.class
+starter\stepdefinitions\CommentStep.class
+starter\ratings\Ratings.class
+starter\stepdefinitions\ProductsStep.class
+starter\auth\Register.class
+Utils\GeneralEmail.class
+starter\products\Products.class
+starter\stepdefinitions\CategoriesStep.class
+starter\stepdefinitions\RatingsStep.class
+CucumberTestSuite.class
+starter\categories\Categories.class
+starter\stepdefinitions\TransactionsStep.class
+starter\comments\Comments.class
+starter\auth\Login.class
+starter\transactions\Transactions.class

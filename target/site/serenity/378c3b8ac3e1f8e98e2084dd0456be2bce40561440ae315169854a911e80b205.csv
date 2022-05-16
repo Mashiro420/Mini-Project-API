@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Transactions","GET - Get All Transactions","SUCCESS","2022-05-16T08:47:36.9647677+07:00[Asia/Bangkok]","0.0","12.92"
+"Transactions","POST - Create Transactions Positive","SUCCESS","2022-05-16T08:47:49.9331555+07:00[Asia/Bangkok]","0.0","4.0"
+"Transactions","POST - Create Transactions Negative","SUCCESS","2022-05-16T08:47:54.2438438+07:00[Asia/Bangkok]","0.0","0.41"

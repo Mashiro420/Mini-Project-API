@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Comments","GET - Get Product’s Comments","SUCCESS","2022-05-16T08:47:36.9167276+07:00[Asia/Bangkok]","0.0","12.96"
+"Comments","POST - Write Comment to a Product Positive","SUCCESS","2022-05-16T08:47:50.0162102+07:00[Asia/Bangkok]","0.0","3.97"
+"Comments","POST - Write Comment to a Product Negative","SUCCESS","2022-05-16T08:47:54.0006811+07:00[Asia/Bangkok]","0.0","0.43"

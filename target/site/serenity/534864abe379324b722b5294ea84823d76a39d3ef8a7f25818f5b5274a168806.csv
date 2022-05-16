@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories","GET - Get All Categories","SUCCESS","2022-05-16T08:47:36.9517503+07:00[Asia/Bangkok]","0.0","13.96"
+"Categories","POST - Create Categories Positive","SUCCESS","2022-05-16T08:47:51.0032692+07:00[Asia/Bangkok]","0.0","2.97"
+"Categories","POST - Create Categories Negative","SUCCESS","2022-05-16T08:47:54.0517171+07:00[Asia/Bangkok]","0.0","0.6"

@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Ratings","GET - Get Product’s Ratings","SUCCESS","2022-05-16T08:47:36.3788792+07:00[Asia/Bangkok]","0.0","13.51"
+"Ratings","POST - Give Ratings to a Product Positive","SUCCESS","2022-05-16T08:47:49.9481667+07:00[Asia/Bangkok]","0.0","4.02"
+"Ratings","POST - Give Ratings to a Product Negative","SUCCESS","2022-05-16T08:47:54.1367727+07:00[Asia/Bangkok]","0.0","0.52"
